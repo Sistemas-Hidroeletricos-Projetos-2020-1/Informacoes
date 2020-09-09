@@ -23,9 +23,11 @@ O aluno poderá escolher um dos seguintes problemas:
 
 **Problema 1:** Reproduzir o caso simulado nos videos do SIGAA no programa HEC-RAS.
 
-**Problema 2:** Reproduzir a simulação da turbobomba do video no canal da disciplina no Microsoft Stream e responder a seguinte pergunta:
+**Problema 2:** Reproduzir a simulação da turbobomba do video no canal da disciplina no Microsoft Stream no ANSYS e responder a seguinte pergunta:
 
 - O impelidor do caso simulado pode ser usado como turbina?
+
+**Problema 3:** Reproduzir a simulação de rompimento de barragem do video no canal da disciplina no Microsoft Stream no ANSYS
 
 O relatório de ambos os projetos deve ser feito na organização indicada pelo professor no GitHub, onde o documento deve ser um readme em um repositório criado pelo aluno.
 
